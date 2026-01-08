@@ -7,9 +7,13 @@ To automatically turn the irrigation mechanism (simulated with a servo motor) on
 
 # Hardware Requirements
 1x Arduino Uno (or a compatible board)
+
 1x Water Level Sensor (Humidity Sensor)
+
 1x Servo Motor (SG90 etc.)
+
 3x LEDs (Red, Green, Blue)
+
 Jumper Cables and Breadboard
 
 # Bileşen => Arduino Pini
