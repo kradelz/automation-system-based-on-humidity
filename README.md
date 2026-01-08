@@ -14,9 +14,13 @@ Jumper Cables and Breadboard
 
 # Bileşen => Arduino Pini
 Water Level (Humidity) Sensor => A0
+
 Servo Motor => D9
+
 Red LED => D8
+
 Green LED => D9
+
 Blue LED => D10
 
 # Working Principle and Algorithm
