@@ -1,5 +1,7 @@
 # automation-system-based-on-humidity
 Arduino-Based Humidity Monitoring and Automation System
+
+
 This project is an automation system that uses a water level sensor as a soil moisture sensor to measure the moisture content in plant soil ,and controls a servo motor ,and turn the led on and off LEDs for status indication according to predetermined threshold values.
 
 # Project Objective
