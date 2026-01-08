@@ -16,7 +16,7 @@ To automatically turn the irrigation mechanism (simulated with a servo motor) on
 
 Jumper Cables and Breadboard
 
-# Bileşen => Arduino Pini
+# Component => Arduino Pin
 Water Level (Humidity) Sensor => A0
 
 Servo Motor => D9
