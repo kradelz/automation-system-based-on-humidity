@@ -23,11 +23,11 @@ Water Level (Humidity) Sensor => A0
 
 Servo Motor => D9
 
-Red LED => D8
+Red LED => D3
 
-Green LED => D9
+Green LED => D5
 
-Blue LED => D10
+Blue LED => D6
 
 # Working Principle and Algorithm
 
